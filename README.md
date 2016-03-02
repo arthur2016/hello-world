@@ -1,7 +1,0 @@
-# hello-world
-this is my first program on github...I like it...
-
-Hi humans
-
-hubot here, I like Node. js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
